@@ -55,7 +55,7 @@ const ProfileForm: React.FC<ProfileFormProps> = ({ onClose }) => {
         <label className="block text-sm font-medium text-slate-300">Currency</label>
         <select {...register('currency')} className={inputClasses}>
           <option value="PHP">PHP - Philippines Peso</option>
-          <option value="USD">PHP - US Currency</option>
+          <option value="USD">US - US Currency</option>
           <option value="EUR">EUR - Euro</option>
           <option value="GBP">GBP - British Pound</option>
           <option value="JPY">JPY - Japanese Yen</option>
