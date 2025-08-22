@@ -76,6 +76,6 @@ If you encounter any issues or have questions, please open an issue on our repos
 
 **⭐ Don't forget to star this repository if you found it helpful! ⭐**
 
-Made with ❤️ by KS|Design
+Made with ❤️ by KS|Design (Marvin Abad)
 
 </div>
